@@ -10,12 +10,9 @@ Este proyecto contiene un agente reflexivo que limpia y ensucia dos habitaciones
 
 ## Cómo usar
 
-Puedes acceder al proyecto en este [enlace](https://github.com/JManuel201800517/-IA1-Tarea1_201800517.git).
+Puedes acceder al proyecto en este [Enlace a ejecucion](https://github.com/JManuel201800517/-IA1-Tarea1_201800517/Agentes Reflejantes.html).
 
 ## Requisitos
 
 - Navegador web
 
-## Ejecución
-
-Para ver el funcionamiento, abre el archivo `index.html` en tu navegador.
